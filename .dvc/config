@@ -3,4 +3,4 @@
 [cache]
     dir = ../../external_cache
 ['remote "storage"']
-    url = s3://mlopsdvc200040008/dvcstore
+    url = s3://mlopsdvc200040008/datastore
