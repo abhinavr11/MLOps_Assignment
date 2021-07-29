@@ -1,0 +1,10 @@
+{
+      "Model": "Voting Classifier",
+      "Accuracy": 0.9994,
+      "AUC": 0.9872,
+      "Recall": 0.7742,
+      "Prec.": 0.9,
+      "F1": 0.8324,
+      "Kappa": 0.8321,
+      "MCC": 0.8345
+}
